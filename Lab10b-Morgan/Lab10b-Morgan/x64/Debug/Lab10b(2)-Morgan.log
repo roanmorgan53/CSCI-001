@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Lab10b-Morgan.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main_RoanMorgan.cpp
+C:\Users\roanl\OneDrive\Documents\Visual Studio Projects\CSCI 2022\C++\Lab10b-Morgan\Lab10b-Morgan\main_RoanMorgan.cpp(73,10): warning C4834: discarding return value of function with 'nodiscard' attribute
+  Lab10b(2)-Morgan.vcxproj -> C:\Users\roanl\OneDrive\Documents\Visual Studio Projects\CSCI 2022\C++\Lab10b-Morgan\Lab10b-Morgan\x64\Debug\Lab10b(2)-Morgan.exe

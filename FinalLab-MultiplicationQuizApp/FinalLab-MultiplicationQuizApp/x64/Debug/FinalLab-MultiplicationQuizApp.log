@@ -1,0 +1,3 @@
+﻿  main_RoanMorgan.cpp
+C:\Users\roanl\OneDrive\Documents\Visual Studio Projects\CSCI 2022\C++\FinalLab-MultiplicationQuizApp\FinalLab-MultiplicationQuizApp\main_RoanMorgan.cpp(14,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  FinalLab-MultiplicationQuizApp.vcxproj -> C:\Users\roanl\OneDrive\Documents\Visual Studio Projects\CSCI 2022\C++\FinalLab-MultiplicationQuizApp\x64\Debug\FinalLab-MultiplicationQuizApp.exe

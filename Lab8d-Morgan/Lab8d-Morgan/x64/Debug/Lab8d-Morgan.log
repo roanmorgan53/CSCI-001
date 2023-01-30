@@ -1,0 +1,3 @@
+﻿  lab8d-Morgan.cpp
+C:\Users\roanl\OneDrive\Documents\Visual Studio Projects\CSCI 2022\C++\Lab8d-Morgan\Lab8d-Morgan\lab8d-Morgan.cpp(20,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab8d-Morgan.vcxproj -> C:\Users\roanl\OneDrive\Documents\Visual Studio Projects\CSCI 2022\C++\Lab8d-Morgan\x64\Debug\Lab8d-Morgan.exe

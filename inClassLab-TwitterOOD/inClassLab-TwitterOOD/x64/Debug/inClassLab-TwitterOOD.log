@@ -1,0 +1,3 @@
+﻿  main_RoanMorgan.cpp
+C:\Users\roanl\OneDrive\Documents\Visual Studio Projects\CSCI 2022\C++\inClassLab-TwitterOOD\inClassLab-TwitterOOD\main_RoanMorgan.cpp(44,18): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+  inClassLab-TwitterOOD.vcxproj -> C:\Users\roanl\OneDrive\Documents\Visual Studio Projects\CSCI 2022\C++\inClassLab-TwitterOOD\x64\Debug\inClassLab-TwitterOOD.exe

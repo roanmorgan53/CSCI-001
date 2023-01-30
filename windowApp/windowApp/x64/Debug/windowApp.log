@@ -1,0 +1,3 @@
+﻿  main_RoanMorgan.cpp
+C:\Users\roanl\OneDrive\Documents\Visual Studio Projects\CSCI 2022\C++\windowApp\windowApp\main_RoanMorgan.cpp(28,19): error C2065: 'hInstance': undeclared identifier
+C:\Users\roanl\OneDrive\Documents\Visual Studio Projects\CSCI 2022\C++\windowApp\windowApp\main_RoanMorgan.cpp(33,23): error C2065: 'szWindowClass': undeclared identifier

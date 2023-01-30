@@ -1,0 +1,3 @@
+﻿  main_RoanMorgan.cpp
+C:\Users\roanl\OneDrive\Documents\Visual Studio Projects\CSCI 2022\C++\inClassLab10-19-22-Morgan\inClassLab10-19-22-Morgan\main_RoanMorgan.cpp(28,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  inClassLab10-19-22-Morgan.vcxproj -> C:\Users\roanl\OneDrive\Documents\Visual Studio Projects\CSCI 2022\C++\inClassLab10-19-22-Morgan\x64\Debug\inClassLabVectorsMethods-Morgan.exe

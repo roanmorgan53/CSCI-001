@@ -1,0 +1,4 @@
+﻿  main_RoanMorgan.cpp
+C:\Users\roanl\OneDrive\Documents\Visual Studio Projects\CSCI 2022\C++\FlipACoinGame\Flip A Coin Game\main_RoanMorgan.cpp(12,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\roanl\OneDrive\Documents\Visual Studio Projects\CSCI 2022\C++\FlipACoinGame\Flip A Coin Game\main_RoanMorgan.cpp(13,10): warning C4101: 'userin': unreferenced local variable
+  Flip A Coin Game.vcxproj -> C:\Users\roanl\OneDrive\Documents\Visual Studio Projects\CSCI 2022\C++\FlipACoinGame\x64\Debug\Flip A Coin Game.exe

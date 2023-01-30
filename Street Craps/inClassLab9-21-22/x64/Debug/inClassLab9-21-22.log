@@ -1,0 +1,4 @@
+﻿  streetCrapsMain_RoanMorgan.cpp
+C:\Users\roanl\OneDrive\Documents\Visual Studio Projects\CSCI 2022\C++\Street Craps\inClassLab9-21-22\streetCrapsMain_RoanMorgan.cpp(12,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\roanl\OneDrive\Documents\Visual Studio Projects\CSCI 2022\C++\Street Craps\inClassLab9-21-22\streetCrapsMain_RoanMorgan.cpp(14,13): warning C4101: 'rickRoll': unreferenced local variable
+  inClassLab9-21-22.vcxproj -> C:\Users\roanl\OneDrive\Documents\Visual Studio Projects\CSCI 2022\C++\Street Craps\x64\Debug\inClassLab9-21-22.exe

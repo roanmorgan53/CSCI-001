@@ -1,0 +1,3 @@
+﻿  guessingGame.cpp
+C:\Users\roanl\OneDrive\Documents\Visual Studio Projects\CSCI 2022\C++\lab5bNumberGuess\lab4aNumberGuess\guessingGame.cpp(11,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  lab4aNumberGuess.vcxproj -> C:\Users\roanl\OneDrive\Documents\Visual Studio Projects\CSCI 2022\C++\lab5bNumberGuess\x64\Debug\lab4aNumberGuess.exe

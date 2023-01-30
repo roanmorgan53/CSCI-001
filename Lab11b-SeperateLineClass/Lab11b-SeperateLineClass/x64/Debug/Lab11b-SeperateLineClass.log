@@ -1,0 +1,11 @@
+﻿  line.cpp
+C:\Users\roanl\OneDrive\Documents\Visual Studio Projects\CSCI 2022\C++\Lab11b-SeperateLineClass\Lab11b-SeperateLineClass\line.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\roanl\OneDrive\Documents\Visual Studio Projects\CSCI 2022\C++\Lab11b-SeperateLineClass\Lab11b-SeperateLineClass\line.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  main_RoanMorgan.cpp
+C:\Users\roanl\OneDrive\Documents\Visual Studio Projects\CSCI 2022\C++\Lab11b-SeperateLineClass\Lab11b-SeperateLineClass\main_RoanMorgan.cpp(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\roanl\OneDrive\Documents\Visual Studio Projects\CSCI 2022\C++\Lab11b-SeperateLineClass\Lab11b-SeperateLineClass\main_RoanMorgan.cpp(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\roanl\OneDrive\Documents\Visual Studio Projects\CSCI 2022\C++\Lab11b-SeperateLineClass\Lab11b-SeperateLineClass\line.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  point.cpp
+C:\Users\roanl\OneDrive\Documents\Visual Studio Projects\CSCI 2022\C++\Lab11b-SeperateLineClass\Lab11b-SeperateLineClass\point.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  Lab11b-SeperateLineClass.vcxproj -> C:\Users\roanl\OneDrive\Documents\Visual Studio Projects\CSCI 2022\C++\Lab11b-SeperateLineClass\x64\Debug\Lab11b-SeperateLineClass.exe

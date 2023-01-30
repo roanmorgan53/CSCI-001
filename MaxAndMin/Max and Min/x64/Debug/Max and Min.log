@@ -1,0 +1,3 @@
+﻿  main_RoanMorgan.cpp
+C:\Users\roanl\OneDrive\Documents\Visual Studio Projects\CSCI 2022\C++\MaxAndMin\Max and Min\main_RoanMorgan.cpp(14,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Max and Min.vcxproj -> C:\Users\roanl\OneDrive\Documents\Visual Studio Projects\CSCI 2022\C++\MaxAndMin\x64\Debug\Max and Min.exe

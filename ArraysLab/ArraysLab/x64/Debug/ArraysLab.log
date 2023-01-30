@@ -1,0 +1,3 @@
+﻿  ArraysLab_RoanMorgan.cpp
+C:\Users\roanl\OneDrive\Documents\Visual Studio Projects\CSCI 2022\C++\ArraysLab\ArraysLab\ArraysLab_RoanMorgan.cpp(15,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ArraysLab.vcxproj -> C:\Users\roanl\OneDrive\Documents\Visual Studio Projects\CSCI 2022\C++\ArraysLab\x64\Debug\ArraysLab.exe

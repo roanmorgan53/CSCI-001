@@ -1,0 +1,5 @@
+﻿  main_RoanMorgan.cpp
+C:\Users\roanl\OneDrive\Documents\Visual Studio Projects\CSCI 2022\C++\Notes12b-MonteCarloPi\Notes12b-MonteCarloPi\main_RoanMorgan.cpp(29,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\roanl\OneDrive\Documents\Visual Studio Projects\CSCI 2022\C++\Notes12b-MonteCarloPi\Notes12b-MonteCarloPi\main_RoanMorgan.cpp(33,9): warning C4101: 'randX': unreferenced local variable
+C:\Users\roanl\OneDrive\Documents\Visual Studio Projects\CSCI 2022\C++\Notes12b-MonteCarloPi\Notes12b-MonteCarloPi\main_RoanMorgan.cpp(34,9): warning C4101: 'randY': unreferenced local variable
+  Notes12b-MonteCarloPi.vcxproj -> C:\Users\roanl\OneDrive\Documents\Visual Studio Projects\CSCI 2022\C++\Notes12b-MonteCarloPi\x64\Debug\Notes12b-MonteCarloPi.exe

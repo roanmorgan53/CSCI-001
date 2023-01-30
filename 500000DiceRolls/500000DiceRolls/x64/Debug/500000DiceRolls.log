@@ -1,0 +1,3 @@
+﻿  main_RoanMorgan.cpp
+C:\Users\roanl\OneDrive\Documents\Visual Studio Projects\CSCI 2022\C++\500000DiceRolls\500000DiceRolls\main_RoanMorgan.cpp(13,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  500000DiceRolls.vcxproj -> C:\Users\roanl\OneDrive\Documents\Visual Studio Projects\CSCI 2022\C++\500000DiceRolls\x64\Debug\500000DiceRolls.exe

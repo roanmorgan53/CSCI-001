@@ -1,0 +1,3 @@
+﻿  main_RoanMorgan.cpp
+C:\Users\roanl\OneDrive\Documents\Visual Studio Projects\CSCI 2022\C++\Magic8BallLab\Magic 8 Ball Lab\main_RoanMorgan.cpp(14,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Magic 8 Ball Lab.vcxproj -> C:\Users\roanl\OneDrive\Documents\Visual Studio Projects\CSCI 2022\C++\Magic8BallLab\x64\Debug\Magic 8 Ball Lab.exe

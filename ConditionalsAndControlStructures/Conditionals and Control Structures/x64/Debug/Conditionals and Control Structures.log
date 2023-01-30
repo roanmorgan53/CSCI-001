@@ -1,0 +1,3 @@
+﻿  labSource_roanMorgan.cpp
+C:\Users\roanl\OneDrive\Documents\Visual Studio Projects\CSCI 2022\C++\ConditionalsAndControlStructures\Conditionals and Control Structures\labSource_roanMorgan.cpp(8,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Conditionals and Control Structures.vcxproj -> C:\Users\roanl\OneDrive\Documents\Visual Studio Projects\CSCI 2022\C++\ConditionalsAndControlStructures\x64\Debug\Conditionals and Control Structures.exe

@@ -1,0 +1,3 @@
+﻿  main_RoanMorgan.cpp
+C:\Users\roanl\OneDrive\Documents\Visual Studio Projects\CSCI 2022\C++\SingleGuessLab\Single Guess Lab\main_RoanMorgan.cpp(8,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Single Guess Lab.vcxproj -> C:\Users\roanl\OneDrive\Documents\Visual Studio Projects\CSCI 2022\C++\SingleGuessLab\x64\Debug\Single Guess Lab.exe

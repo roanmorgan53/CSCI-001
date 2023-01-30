@@ -1,0 +1,4 @@
+﻿  functionTablesMain.cpp
+C:\Users\roanl\OneDrive\Documents\Visual Studio Projects\CSCI 2022\C++\tableOfFunctionValues\tableOfFunctionValues\functionTablesMain.cpp(29,19): warning C4552: '>=': result of expression not used
+C:\Users\roanl\OneDrive\Documents\Visual Studio Projects\CSCI 2022\C++\tableOfFunctionValues\tableOfFunctionValues\functionTablesMain.cpp(9,9): warning C4101: 'x': unreferenced local variable
+  tableOfFunctionValues.vcxproj -> C:\Users\roanl\OneDrive\Documents\Visual Studio Projects\CSCI 2022\C++\tableOfFunctionValues\x64\Debug\tableOfFunctionValues.exe

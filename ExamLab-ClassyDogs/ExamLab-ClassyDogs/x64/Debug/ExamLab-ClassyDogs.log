@@ -1,0 +1,5 @@
+﻿  main_RoanMorgan.cpp
+C:\Users\roanl\OneDrive\Documents\Visual Studio Projects\CSCI 2022\C++\ExamLab-ClassyDogs\ExamLab-ClassyDogs\main_RoanMorgan.cpp(34,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\roanl\OneDrive\Documents\Visual Studio Projects\CSCI 2022\C++\ExamLab-ClassyDogs\ExamLab-ClassyDogs\main_RoanMorgan.cpp(64,6): warning C4101: 'id': unreferenced local variable
+C:\Users\roanl\OneDrive\Documents\Visual Studio Projects\CSCI 2022\C++\ExamLab-ClassyDogs\ExamLab-ClassyDogs\main_RoanMorgan.cpp(63,6): warning C4101: 'age': unreferenced local variable
+  ExamLab-ClassyDogs.vcxproj -> C:\Users\roanl\OneDrive\Documents\Visual Studio Projects\CSCI 2022\C++\ExamLab-ClassyDogs\x64\Debug\ExamLab-ClassyDogs.exe

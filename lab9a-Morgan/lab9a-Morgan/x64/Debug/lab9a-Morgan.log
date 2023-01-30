@@ -1,0 +1,3 @@
+﻿  main_RoanMorgan.cpp
+C:\Users\roanl\OneDrive\Documents\Visual Studio Projects\CSCI 2022\C++\lab9a-Morgan\lab9a-Morgan\main_RoanMorgan.cpp(15,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  lab9a-Morgan.vcxproj -> C:\Users\roanl\OneDrive\Documents\Visual Studio Projects\CSCI 2022\C++\lab9a-Morgan\x64\Debug\lab9a-Morgan.exe

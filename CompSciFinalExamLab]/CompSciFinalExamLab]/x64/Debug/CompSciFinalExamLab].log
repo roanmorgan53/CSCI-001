@@ -1,0 +1,3 @@
+﻿  main_RoanMorgan.cpp
+C:\Users\roanl\OneDrive\Documents\Visual Studio Projects\CSCI 2022\C++\CompSciFinalExamLab]\CompSciFinalExamLab]\main_RoanMorgan.cpp(48,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CompSciFinalExamLab].vcxproj -> C:\Users\roanl\OneDrive\Documents\Visual Studio Projects\CSCI 2022\C++\CompSciFinalExamLab]\x64\Debug\CompSciFinalExamLab].exe

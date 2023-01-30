@@ -1,0 +1,3 @@
+﻿  main_RoanMorgan.cpp
+C:\Users\roanl\OneDrive\Documents\Visual Studio Projects\CSCI 2022\C++\inClassLab-LotteryGame\inClassLab-LotteryGame\main_RoanMorgan.cpp(11,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  inClassLab-LotteryGame.vcxproj -> C:\Users\roanl\OneDrive\Documents\Visual Studio Projects\CSCI 2022\C++\inClassLab-LotteryGame\x64\Debug\inClassLab-LotteryGame.exe

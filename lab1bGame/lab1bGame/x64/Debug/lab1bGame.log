@@ -1,0 +1,3 @@
+﻿  lab1b-roanMorgan.cpp
+C:\Users\roanl\OneDrive\Documents\Visual Studio Projects\CSCI 2022\C++\lab1bGame\lab1bGame\lab1b-roanMorgan.cpp(13,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  lab1bGame.vcxproj -> C:\Users\roanl\OneDrive\Documents\Visual Studio Projects\CSCI 2022\C++\lab1bGame\x64\Debug\lab1bGame.exe

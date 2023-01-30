@@ -1,0 +1,4 @@
+﻿  main_RoanMorgan.cpp
+C:\Users\roanl\OneDrive\Documents\Visual Studio Projects\CSCI 2022\C++\Lab10a-Morgan\Lab10a-Morgan\main_RoanMorgan.cpp(84,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\roanl\OneDrive\Documents\Visual Studio Projects\CSCI 2022\C++\Lab10a-Morgan\Lab10a-Morgan\main_RoanMorgan.cpp(121,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Lab10a-Morgan.vcxproj -> C:\Users\roanl\OneDrive\Documents\Visual Studio Projects\CSCI 2022\C++\Lab10a-Morgan\x64\Debug\Lab10a-Morgan.exe

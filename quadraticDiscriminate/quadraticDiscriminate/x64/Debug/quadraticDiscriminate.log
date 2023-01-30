@@ -1,0 +1,3 @@
+﻿  quadraticDiscriminateMain.cpp
+C:\Users\roanl\OneDrive\Documents\Visual Studio Projects\CSCI 2022\C++\quadraticDiscriminate\quadraticDiscriminate\quadraticDiscriminateMain.cpp(34,19): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  quadraticDiscriminate.vcxproj -> C:\Users\roanl\OneDrive\Documents\Visual Studio Projects\CSCI 2022\C++\quadraticDiscriminate\x64\Debug\quadraticDiscriminate.exe
